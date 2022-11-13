@@ -1,1 +1,2 @@
-# The_Complete_JavaScript_Course_Projects
+# The Complete JavaScript Course Projects
+Modern JavaScript from the very beginning, step-by-step.
