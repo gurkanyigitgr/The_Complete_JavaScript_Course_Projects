@@ -9,13 +9,14 @@ body,
 .wrapper,
 .content {
   display: flex;
-  align-items: flex-start;
-  margin-top: 2rem;
+  align-items: center;
   justify-content: center;
 }
 body {
   padding: 0 10px;
   min-height: 100vh;
+  align-items: flex-start;
+  margin-top: 2rem;
   background: #4a98f7;
 }
 .wrapper {
