@@ -35,5 +35,5 @@ If the player rolls a 1, they score nothing and it becomes the next player's tur
 
 In this Alarm Clock, there is a digital clock that shows the current time along with some alarm options hour, minutes, am/pm. Users can select a time and set alarms for any time, whether AM or PM. If you’re already familiar with JavaScript Date() object, then this alarm code will be easy for you to understand.
 
-<video src="https://github.com/gurkanyigitgr/The_Complete_JavaScript_Course_Projects/blob/main/2023-04-11%2016-08-49.mp4" controls>
+<video src="https://github.com/gurkanyigitgr/The_Complete_JavaScript_Course_Projects/blob/main/2023-04-11%2016-08-49.mp4?raw=true" controls>
 </video>
