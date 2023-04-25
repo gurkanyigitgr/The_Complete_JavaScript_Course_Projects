@@ -35,8 +35,8 @@ If the player rolls a 1, they score nothing and it becomes the next player's tur
 
 In this Alarm Clock, there is a digital clock that shows the current time along with some alarm options hour, minutes, am/pm. Users can select a time and set alarms for any time, whether AM or PM. If you’re already familiar with JavaScript Date() object, then this alarm code will be easy for you to understand.
 
-
 https://user-images.githubusercontent.com/110620986/231176182-87f72fdf-e798-4061-af8d-02c0884bc8ed.mp4
 
+## Project 5 : Snake Game
 
-
+I have created a Snake game using JavaScript. The game is simple and addictive, where the player controls a snake that grows in length as it eats food. The objective of the game is to collect as much food as possible without colliding with the walls or the snake's own body. The game features multiple levels of difficulty and can be played with both keyboard and touch controls. Developing this game helped me improve my skills in JavaScript, especially in working with event listeners, game logic, and animations.
