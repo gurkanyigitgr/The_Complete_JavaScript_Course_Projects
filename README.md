@@ -40,3 +40,7 @@ https://user-images.githubusercontent.com/110620986/231176182-87f72fdf-e798-4061
 ## Project 5 : Snake Game
 
 I have created a Snake game using JavaScript. The game is simple and addictive, where the player controls a snake that grows in length as it eats food. The objective of the game is to collect as much food as possible without colliding with the walls or the snake's own body. The game features multiple levels of difficulty and can be played with both keyboard and touch controls. Developing this game helped me improve my skills in JavaScript, especially in working with event listeners, game logic, and animations.
+
+## Project 6 : Palindrome Checker
+
+A palindrome is a word, phrase, or sentence that reads the same backward as forward, Eg. level, borrow or rob, 1234321. In my palindrome checker, users can enter text or numbers and check whether the entered value is palindrome or not by clicking on the check palindrome button.
