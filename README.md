@@ -44,3 +44,7 @@ I have created a Snake game using JavaScript. The game is simple and addictive, 
 ## Project 6 : Palindrome Checker
 
 A palindrome is a word, phrase, or sentence that reads the same backward as forward, Eg. level, borrow or rob, 1234321. In my palindrome checker, users can enter text or numbers and check whether the entered value is palindrome or not by clicking on the check palindrome button.
+![image](https://user-images.githubusercontent.com/110620986/235653880-296da8fd-c953-488a-b079-3a7669dabfdf.png)
+![image](https://user-images.githubusercontent.com/110620986/235654012-9f9eda32-b565-4d66-9626-d05c27cbd9a2.png)
+![image](https://user-images.githubusercontent.com/110620986/235654086-20ffb146-9d85-4f2b-b5f9-c66fd4c0e9b1.png)
+
