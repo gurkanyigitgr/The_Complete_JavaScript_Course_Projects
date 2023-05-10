@@ -48,3 +48,23 @@ A palindrome is a word, phrase, or sentence that reads the same backward as forw
 ![image](https://user-images.githubusercontent.com/110620986/235654012-9f9eda32-b565-4d66-9626-d05c27cbd9a2.png)
 ![image](https://user-images.githubusercontent.com/110620986/235654086-20ffb146-9d85-4f2b-b5f9-c66fd4c0e9b1.png)
 
+## Project 7 : Favorite Band
+
+This is a tribute website dedicated to my favorite artist, HIM. The website showcases provides a platform for fans to leave messages and support the artist through donations.
+
+### Technologies Used
+
+The tribute website is built using the following technologies:
+
+HTML: For creating the structure and layout of the webpage.
+CSS: For styling the webpage and making it visually appealing.
+JavaScript: For implementing dynamic features such as user messages and donation functionality.
+Bootstrap (optional): A CSS framework that can be used for responsive design and pre-built components.
+
+### Deployment
+
+You can visit the website at [https://him-killing-loneliness.netlify.app/]
+
+### Conclusion
+
+This tribute website provides a platform for fans to engage by leaving messages and supporting the artist through donations. The project demonstrates proficiency in HTML, CSS, JavaScript, and DOM manipulation, as well as the ability to create an aesthetically pleasing and interactive web interface.
