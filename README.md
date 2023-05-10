@@ -68,3 +68,8 @@ You can visit the website at [https://him-killing-loneliness.netlify.app/]
 ### Conclusion
 
 This tribute website provides a platform for fans to engage by leaving messages and supporting the artist through donations. The project demonstrates proficiency in HTML, CSS, JavaScript, and DOM manipulation, as well as the ability to create an aesthetically pleasing and interactive web interface.
+![image](https://github.com/gurkanyigitgr/The_Complete_JavaScript_Course_Projects/assets/110620986/bf6f8869-af7e-4c10-8707-0f0183dcda49)
+![image](https://github.com/gurkanyigitgr/The_Complete_JavaScript_Course_Projects/assets/110620986/cd9de1cd-3dd6-4f32-8806-705fa90c4bc5)
+![image](https://github.com/gurkanyigitgr/The_Complete_JavaScript_Course_Projects/assets/110620986/2a0fbd24-0d92-49e9-bca4-c650dd9a1f62)
+![image](https://github.com/gurkanyigitgr/The_Complete_JavaScript_Course_Projects/assets/110620986/f888bc04-d40a-4933-aaf5-2e1015e46637)
+
